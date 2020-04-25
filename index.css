@@ -1,6 +1,6 @@
 *{
-	padding: 0;
-	margin: 0;
+	padding: 5;
+	margin: 5;
 }
 
 html, body{
@@ -14,7 +14,7 @@ html, body{
 	height: 100%;
 }
 #grid {
-	position: absolute;
+	position: center;
 	width: 100%;
 	height: 100%;
 	background-color: #e3e3e3;
